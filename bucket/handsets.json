@@ -4,7 +4,7 @@
   "homepage": "https://github.com/elliotgao2/handsets",
   "license": "MIT",
   "url": "https://github.com/elliotgao2/handsets/releases/download/v0.1.38/handsets-windows-x86_64.zip",
-  "hash": "sha256:b8bbb7c15f62f09abb20ec43ba98b54a50678fa813969da3a424c3cc79e90dc2",
+  "hash": "sha256:710E662D12FDA5A5F3C43462ABB08907CCD51235145CA66152AF193E7460AC0D",
   "extract_dir": "handsets-windows-x86_64",
   "bin": "handsets.exe",
   "checkver": {
