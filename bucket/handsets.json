@@ -1,0 +1,16 @@
+{
+  "version": "0.1.38",
+  "description": "Handsets CLI tool",
+  "homepage": "https://github.com/elliotgao2/handsets",
+  "license": "MIT",
+  "url": "https://github.com/elliotgao2/handsets/releases/download/v0.1.38/handsets-windows-x86_64.zip",
+  "hash": "sha256:b8bbb7c15f62f09abb20ec43ba98b54a50678fa813969da3a424c3cc79e90dc2",
+  "extract_dir": "handsets-windows-x86_64",
+  "bin": "handsets.exe",
+  "checkver": {
+    "github": "https://github.com/elliotgao2/handsets"
+  },
+  "autoupdate": {
+    "url": "https://github.com/elliotgao2/handsets/releases/download/v$version/handsets-windows-x86_64.zip"
+  }
+}
